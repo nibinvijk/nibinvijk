@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @nibinvijk
 - 👀 I’m interested in Mobile application development. (Swift/SwiftUI, Obj-c, Flutter)
 - 🌱 I’m currently learning SwiftUI/Flutter
-- 📫 How to reach me ...
+
+<!---
+- 📫 How to reach me ... 
+--->
 
 <!---
 nibinvijk/nibinvijk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

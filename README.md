@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nibinvijk
 - 👀 I’m interested in Mobile application development. (Swift/SwiftUI, Obj-c, Flutter)
-- 🌱 I’m currently learning SwiftUI/Flutter
+- 🌱 I’m currently learning Flutter
 
 <!---
 - 📫 How to reach me ... 
